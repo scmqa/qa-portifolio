@@ -21,3 +21,6 @@ Teste exploratório no site Amazon Brasil com identificação e documentação d
 
 ### Projeto_Carrinho_Amazon
 Teste funcional do carrinho de compras da Amazon Brasil, com validação de operações críticas como cálculo de subtotal, atualização de quantidade e persistência de itens.
+
+### Projeto_Login_Amazon
+Teste funcional da autenticação de usuários no site Amazon Brasil, com validação de cenários positivos e negativos, incluindo credenciais inválidas, campos obrigatórios e usuários não cadastrados.
