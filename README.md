@@ -1,7 +1,6 @@
 # QA Portfolio — Silmara Costa
 
-Portfólio de testes manuais e testes de API.  
-Relatórios estruturados com foco em qualidade, análise funcional e identificação de bugs.
+Portfólio de QA com testes manuais e validação de APIs, focado em análise funcional, identificação de bugs e qualidade de software.
 
 ---
 
@@ -23,4 +22,4 @@ Teste exploratório no site Amazon Brasil com identificação e documentação d
 Teste funcional do carrinho de compras da Amazon Brasil, com validação de operações críticas como cálculo de subtotal, atualização de quantidade e persistência de itens.
 
 ### Projeto_Login_Amazon
-Teste funcional da autenticação de usuários no site Amazon Brasil, com validação de cenários positivos e negativos, incluindo credenciais inválidas, campos obrigatórios e usuários não cadastrados.
+Teste funcional da autenticação de usuários no site Amazon Brasil, cobrindo cenários positivos e negativos, validação de entradas e comportamento do sistema.
