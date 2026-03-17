@@ -20,4 +20,4 @@ Testes funcionais de API utilizando Postman para validação de endpoints, respo
 Teste exploratório no site Amazon Brasil com identificação e documentação de bugs na aplicação de filtros de busca.
 
 ### Projeto_Carrinho_Amazon
-Teste funcional da funcionalidade de carrinho de compras no site Amazon Brasil, incluindo validação de adição, remoção, alteração de quantidade e cálculo de valores.
+Teste funcional do carrinho de compras da Amazon Brasil, com validação de operações críticas como cálculo de subtotal, atualização de quantidade e persistência de itens.
