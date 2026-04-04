@@ -27,5 +27,8 @@ Teste funcional da autenticação de usuários no site Amazon Brasil, cobrindo c
 ### Projeto_Busca_Shopee
 Teste funcional da funcionalidade de busca no site da Shopee, com validação de cenários como buscas válidas, sem resultado, erros de digitação e navegação para página de produto.
 
-### QA Manual Test Project
+### Website QA Test — Jornal A Folha do Litoral
+Projeto de teste manual (QA) realizado no site Jornal A Folha do Litoral, com foco na identificação de bugs, análise de usabilidade e melhorias na experiência do usuário.
+
+### QA Test Order System
 Teste manual realizado em uma plataforma web real, com foco na identificação de bugs, validação de funcionalidades e análise do comportamento do sistema.
