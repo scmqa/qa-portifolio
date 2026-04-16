@@ -1,0 +1,30 @@
+Cypress Automation Test - Basic Website Navigation
+
+Overview
+
+This project demonstrates a basic automated test using Cypress.
+
+The test validates if a webpage loads correctly by navigating to a specified URL.
+
+Tool Used
+- Cypress
+
+Test Description
+The test script opens a webpage and verifies that it loads successfully.
+
+Test Script
+
+describe('My first test', () => {
+  it('visits a website', () => {
+    cy.visit('https://example.com')
+  })
+})
+
+Expected Result
+The webpage should load successfully without errors.
+
+Actual Result
+The webpage loaded successfully, displaying the "Example Domain" page.
+
+Status
+Passed
