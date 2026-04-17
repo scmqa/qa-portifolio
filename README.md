@@ -1,7 +1,7 @@
 # QA Portfolio — Silmara Costa
-# QA portfolio with manual testing, API validation, and test automation using Cypress, focused on functional analysis, bug identification, and software quality.
+## QA portfolio with manual testing, API validation, and test automation using Cypress, focused on functional analysis, bug identification, and software quality.
 
-Projects
+### Projects
 
 CT Digital Project
 Manual testing focused on the authentication flow of the Digital Work Card system, including login validation and system behavior analysis.
